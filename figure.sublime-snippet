@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.95\textwidth]{figure}
+	\caption{Blindfigure}
+	\label{fig:blindfigure}
+\end{figure}
+]]></content>
+	<tabTrigger>blindfigure</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Blindfigure</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+\begin{itemize}
+	\item First itemtext
+	\item Second itemtext
+	\item Third itemtext
+	\item Fourth itemtext
+	\item Last itemtext
+\end{itemize}
+]]></content>
+	<tabTrigger>blinditemize</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Blinditemize</description>
+</snippet>

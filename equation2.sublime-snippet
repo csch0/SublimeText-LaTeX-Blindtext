@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+\[ 
+	\int_0^\infty e^{-\alpha x^2} \mathrm{d}x = 
+		\frac12\sqrt{\int_{-\infty}^\infty e^{-\alpha x^2}}
+	\mathrm{d}x\int_{-\infty}^\infty e^{-\alpha y^2}\mathrm{d}y = 
+		\frac12\sqrt{\frac{\pi}{\alpha}}
+\]
+]]></content>
+	<tabTrigger>blindequation2</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Blindequation2</description>
+</snippet>

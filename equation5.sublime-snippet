@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+\[
+	\frac{\partial^2 \Phi}{\partial x^2} + 
+		\frac{\partial^2 \Phi}{\partial y^2} + 
+		\frac{\partial^2 \Phi}{\partial z^2} =
+    	\frac{1}{c^2}\frac{\partial^2\Phi}{\partial t^2}
+\]
+]]></content>
+	<tabTrigger>blindequation5</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Blindequation5</description>
+</snippet>

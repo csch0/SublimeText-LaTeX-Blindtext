@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\[
+	\bar x = \frac{1}{n}\sum_{i=1}^{i=n} x_i = \frac{x_1 + x_2 + \dots{} + x_n}{n}
+\]
+]]></content>
+	<tabTrigger>blindequation1</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Blindequation1</description>
+</snippet>

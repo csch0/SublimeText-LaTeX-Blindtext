@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+\[
+	\sum_{k=0}^\infty a_0q^k = \lim_{n\to\infty}\sum_{k=0}^n a_0q^k = 
+		\lim_{n\to\infty} a_0\frac{1-q^{n+1}}{1-q} = \frac{a_0}{1-q}
+\]
+]]></content>
+	<tabTrigger>blindequation3</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Blindequation3</description>
+</snippet>
